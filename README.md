@@ -1,4 +1,8 @@
 # My-NoteBook
-Covid19 dataset for NIgeria.
 
-This repository also contain data scraping and cleaning of Covid19 cases globally..
+This Repository contains my Jupyter notebooks for Data science and Machine learning.
+
+Some notebooks are from my Data Science classes, Machine Learning class and several others from hands
+on projetcs.
+
+feel free to use them at your own discretion.
